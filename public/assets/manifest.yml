@@ -3,6 +3,7 @@ logo.png: logo-fe921ccd985f878d40261270496ad20b.png
 rails.png: rails-e4b51606cd77fda2615e7439907bfc92.png
 application.js: application-f9c23a25829e1889aa6a166cc4f1745b.js
 application.css: application-df326a187d2c221a85bd3e2d62d18e93.css
+blueprint/ie.css: blueprint/ie-e74efa906a10b340155784d2bad8c799.css
 blueprint/plugins/buttons/icons/cross.png: blueprint/plugins/buttons/icons/cross-1f87fac86c438386527b5e7d5ceecb0e.png
 blueprint/plugins/buttons/icons/key.png: blueprint/plugins/buttons/icons/key-5f38d0204e83d3d83585a62ff993342b.png
 blueprint/plugins/buttons/icons/tick.png: blueprint/plugins/buttons/icons/tick-09de3f730b3b6ef960450a506b0916a9.png
